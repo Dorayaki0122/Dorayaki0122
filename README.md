@@ -24,7 +24,35 @@
 
 ###
 
-<p align="center">🌴Made in Canary Islands<br>⏳25%<br>👩🏽‍💻Ingeniera de Inteligencia Artificial<br>🧠Ingeniería de prompts y soluciones basadas en IA<br>🌐Desarrollo web y de software<br>🗃️Diseño y gestión de bases de datos<br>🔄Metodologías ágiles (Scrum · GitFlow · CI/CD)<br>🌍Inglés B2</p>
+
+<p>🎓 Estudiante de Ingeniería Informática | Tecnologías de la Información</p>
+
+<p align="justify">
+Soy una estudiante de último año de Ingeniería Informática en la Universidad de La Laguna, con especialización en Tecnologías de la Información. Me interesa el desarrollo web, la ingeniería de prompts, la aplicación de soluciones basadas en Inteligencia Artificial y el desarrollo de software, enfocándome siempre en aprovechar la tecnología para resolver problemas reales y optimizar procesos. Mi objetivo es seguir creciendo profesionalmente en el ámbito de la inteligencia artificial, buscando generar impacto positivo a través de soluciones tecnológicas eficientes y creativas.
+</p>
+
+<p>
+💻 Habilidades técnicas:<br>
+✔️ Programación en C, C++, Python, Ruby, SQL, Markdown, Ensamblador y Bash.<br>
+✔️ Desarrollo web con HTML, React y TypeScript.<br>
+✔️ Diseño y gestión de bases de datos con MySQL y PostgreSQL.<br>
+✔️ Lógica digital y Desarrollo de hardware con Verilog (HDL).<br>
+✔️ Gestión de proyectos y desarrollo ágil mediante Scrum, aplicando flujos de trabajo con GitFlow y automatización CI/CD con GitHub Actions.
+</p>
+
+<p>
+🌍 Idiomas y certificaciones:<br>
+✔️ Certificación en Inglés - Nivel B2, obtenida en la academia CES de Londres.<br>
+✔️ Certificación en Inglés - Nivel B1, obtenida en la Escuela Oficial de Idiomas.<br>
+✔️ Curso en Creación de Aplicaciones con IA Generativa.<br>
+✔️ Curso en Ingeniería de Prompts e Introducción a Sistemas Avanzados de IA Generativa.<br>
+✔️ Curso en Fundamentos de Gestión de Proyectos y Metodologías Ágiles (Scrum, Kanban y Lean Startup).<br>
+✔️ Curso en Introducción a Python para IA Generativa.<br>
+✔️ Curso en Fundamentos de programación de videojuegos en Unity.
+</p>
+
+<p>Estoy en constante aprendizaje y busco oportunidades para seguir creciendo profesionalmente.</p>
+
 
 ###
 
