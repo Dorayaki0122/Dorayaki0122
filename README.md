@@ -13,7 +13,7 @@
 
 ---
 
-## 🙋‍♀️ Sobre mí
+## 🙋🏻‍♀️ Sobre mí
 
 - 🤖 Me interesa la **IA**, la **ingeniería de prompts** y el **desarrollo web**
 - 💡 Me gusta usar la tecnología para resolver problemas reales y optimizar procesos
